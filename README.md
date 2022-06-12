@@ -21,6 +21,6 @@
 
 • git clone https://github.com/FAHIM404-CYBER/CRACK-PUBLIC-V2
 
-• cd CRACK-PUBLIC-V2
+• cd ridhero
 
 • python free.py
